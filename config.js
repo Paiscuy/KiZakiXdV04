@@ -10,18 +10,18 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6288902229533']
-global.pengguna = '𝐙𝐘𝐍𝐗'
+global.owner = ['6283190747399']
+global.pengguna = pais
 global.premium = []
-global.author = '𝐙𝐘𝐍𝐗'
-global.pemilik = ['6288902229533'] 
-global.ownernomer = '6288902229533'
-global.ownername = '𝐙𝐘𝐍𝐗'
-global.botname = '𝐙𝐗 - 𝐁𝐎𝐓'
+global.author = faiz
+global.pemilik = ['6283190747399'] 
+global.ownernomer = '6283190747399'
+global.ownername = faiz
+global.botname = naylatod
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '6288902229533'
-global.footer = '𝐙𝐗 - 𝐁𝐎𝐓'
+global.footer = 'pais - 𝐁𝐎𝐓'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = '𝐙𝐘𝐍𝐗' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
